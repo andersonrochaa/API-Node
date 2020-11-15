@@ -3,7 +3,7 @@
 - Foram ultilizados objetos para fazer o CRUD.
 
 #### BancoDeDados.js
-Módulo responsável pelas funções que faz o CRUD dos objetos.
+Módulo responsável pelas funções que faz o CRUD nos objetos.
 
 ```javascript
 const sequence = {
