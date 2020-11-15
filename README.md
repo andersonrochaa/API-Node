@@ -1,5 +1,5 @@
 #  Api Node Sem BANCO DE DADOS
-- API node.js usando o express para fazer os request e response. 
+- API node.js usando o express. 
 - Foram ultilizados objetos para fazer o CRUD.
 
 #### BancoDeDados.js
